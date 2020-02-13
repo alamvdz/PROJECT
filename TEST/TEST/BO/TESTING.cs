@@ -8,5 +8,6 @@ namespace TEST.BO
 {
     class TESTING
     {
+        double vector; 
     }
 }
